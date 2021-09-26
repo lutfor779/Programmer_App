@@ -18,7 +18,7 @@ const Display = () => {
     // console.log(programmers)
    
     return (
-        <div className="row mt-5">
+        <div className="row mt-5 mx-5">
             <div className="col-9">
                 <Programmers
                     programmers={programmers}

@@ -15,8 +15,8 @@ const Programmer = (props) => {
             <div className="col">
             <div className="card shadow p-3 mb-5 bg-body">
                 <img src={image} className="card-img-top rounded-circle" alt="..." />
-                    <div className ="card-body px-5 py-3">
-                        <h5 className="card-title">Name: {name}</h5>
+                    <div className ="card-body px-4 py-3">
+                        <h4 className="card-title text-primary">Name: {name}</h4>
                         <p className="card-text">Rol: {rol}</p>
                         <p>Age: {age}</p>
                         <p>Experience: {experience}</p>

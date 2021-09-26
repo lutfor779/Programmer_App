@@ -7,7 +7,7 @@ const Programmers = (props) => {
     // console.log(handleCart);
     return (
         <div className="container">
-            <div className="row row-cols-1 row-cols-md-3 g-5">
+            <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
                 {
                     programmers.length > 0 ? programmers.map(programmer => <Programmer
                         programmer={programmer}

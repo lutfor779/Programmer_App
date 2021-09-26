@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './Cart.css'
 const Cart = (props) => {
     const { selectProgrammer } = props;
 
@@ -8,14 +8,17 @@ const Cart = (props) => {
     console.log(total);
 
     return (
-        <div>
-            <h1>Ordered: {selectProgrammer.length}</h1>
-            <p>Total: {total}</p>
-            <ul>
+        <div className="cart card shadow p-3 bg-body sticky-top">
+            <h1 className="text-center text-info">Heired: {selectProgrammer.length}</h1>
+            <h3 className="text-center mt-3 text-danger">Total Cost: {total}</h3>
+            <br />
+            <br />
+            <ol>
+                
                 {
-                    selectProgrammer.map(Selectedprogrammer => <li key={Selectedprogrammer.id}>{Selectedprogrammer.name}</li>)
+                    selectProgrammer.map(SelectedProgrammer => <li key={SelectedProgrammer.id} className="ps-5"><h5>{SelectedProgrammer.name}</h5></li>)
                 }
-            </ul>
+            </ol>
         </div>
     );
 };
