@@ -7,7 +7,7 @@ import './Programmer.css'
 
 const Programmer = (props) => {
     const { handleCart, programmer } = props;
-    const { id, name, rol, age, experience, country, rate, image } = programmer;
+    const { name, rol, age, experience, country, rate, image } = programmer;
     // console.log(id, name, rol, age, experience, country,rate, image)
     
     
@@ -25,7 +25,7 @@ const Programmer = (props) => {
                     <div className="button">
                         <button type="button"
                             className="btn btn-danger px-4 my-3"
-                            onClick={()=>handleCart(id)}>
+                            onClick={()=>handleCart(programmer)}>
                             <FontAwesomeIcon icon={faShoppingCart} /> Add to Cart</button>
                     </div>
                     </div>
