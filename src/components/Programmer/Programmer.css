@@ -1,8 +1,19 @@
 .card img{
     height: 150px;
-    padding: 10px 130px;
+    padding: 10px 120px;
 }
 .card{
     background-image: linear-gradient(to right top, #e6e6fa93, #ddefff93, #daf6fc73, #e1fcf6, #f0fff08e);
-    border-radius: 20px;
+    border-radius: 15px;
+}
+.card:hover{
+     transform: scale(1.05);
+     box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.button{
+    text-align: center;
+}
+.btn:hover{
+    transform: scale(1.05);
+     box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
 }

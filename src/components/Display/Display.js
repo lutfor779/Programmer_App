@@ -8,14 +8,20 @@ const Display = () => {
             .then(res => res.json())
             .then(data => setProgrammers(data))
     }, []);
+    const handleCart = (props) => {
+        console.log(props)
+    }
     // console.log(programmers)
     return (
         <div className="row mt-5">
             <div className="col-9">
-                <Programmers programmers={programmers}></Programmers>
+                <Programmers
+                    programmers={programmers}
+                    handleCart={handleCart}></Programmers>
             </div>
             <div className="col-3">
                 <h1>ok</h1>
+
             </div>
         </div>
     );

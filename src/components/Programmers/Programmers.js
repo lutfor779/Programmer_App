@@ -3,16 +3,18 @@ import Programmer from '../Programmer/Programmer';
 import './Programmers.css';
 
 const Programmers = (props) => {
-    const { programmers } = props;
+    const { programmers, handleCart } = props;
+    // console.log(handleCart);
     return (
         <div className="container">
             <div className="row row-cols-1 row-cols-md-3 g-5">
                 {
-                    programmers.length > 0 ? programmers.map(programmer => <Programmer programmer={programmer} key={programmer.id}></Programmer>) : 0
+                    programmers.length > 0 ? programmers.map(programmer => <Programmer
+                        programmer={programmer}
+                        key={programmer.id}
+                        handleCart={handleCart}></Programmer>) : 0
                 }
-            </div>
-
-
+            </div>            
         </div>
     );
 };
