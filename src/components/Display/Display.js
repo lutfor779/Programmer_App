@@ -18,14 +18,16 @@ const Display = () => {
     // console.log(programmers)
    
     return (
-        <div className="row mt-5 mx-5">
-            <div className="col-9">
-                <Programmers
-                    programmers={programmers}
-                    handleCart={handleCart}></Programmers>
-            </div>
-            <div className="col-3">
-                <Cart selectProgrammer={cart}></Cart>
+        <div className="bg-success bg-gradient bg-opacity-10">
+            <div className="row mx-5 pt-5">
+                <div className="col-9">
+                    <Programmers
+                        programmers={programmers}
+                        handleCart={handleCart}></Programmers>
+                </div>
+                <div className="col-3">
+                    <Cart selectProgrammer={cart}></Cart>
+                </div>
             </div>
         </div>
     );
