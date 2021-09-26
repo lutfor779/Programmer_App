@@ -1,6 +1,9 @@
-.card img{
+.card-img{
+    text-align: center;
+}
+.card-img img{
+    width: 150px;
     height: 150px;
-    padding: 10px 120px;
 }
 .card{
     background-image: linear-gradient(to right top, #e6e6fa93, #ddefff93, #daf6fc73, #e1fcf6, #f0fff08e);
