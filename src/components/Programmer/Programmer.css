@@ -1,0 +1,8 @@
+.card img{
+    height: 150px;
+    padding: 10px 130px;
+}
+.card{
+    background-image: linear-gradient(to right top, #e6e6fa93, #ddefff93, #daf6fc73, #e1fcf6, #f0fff08e);
+    border-radius: 20px;
+}

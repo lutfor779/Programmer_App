@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "name": "Ivan Samkov",
+        "rol": "Programmer",
+        "age": 26,
+        "experience": "5 years",
+        "country": "USA",
+        "rate": 786786,
+        "image": "https://www.soldevelo.com/blog/wp-content/uploads/What-makes-a-great-programmer-banner-1536x1024-1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Olia Danilevich",
+        "rol": "Web Developer",
+        "age": 31,
+        "experience": "11 years",
+        "country": "Japan",
+        "rate": 900000,
+        "image": "https://www.zdnet.com/a/hub/i/r/2019/08/19/4a663776-f4a9-4f89-9bee-2d07ee052f5b/thumbnail/1200x900/fd91ab018a59e4a7b57ea05727a31880/istock-1147195672-11.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Djordje Petrovic",
+        "rol": "Developer",
+        "age": 35,
+        "experience": "15 years",
+        "country": "Peru",
+        "rate": 634120,
+        "image": "https://media.istockphoto.com/photos/developer-in-office-picture-id1006045878?k=20&m=1006045878&s=612x612&w=0&h=B31ySrQ--hHx92Hqa0ha-w5i33DN55qOHFU01PtyfU0="
+    },
+    {
+        "id": 4,
+        "name": "Christina Morillo",
+        "rol": "Desiner",
+        "age": 29,
+        "experience": "8 years",
+        "country": "Indonesia",
+        "rate": 654500,
+        "image": "https://images.pexels.com/photos/1181280/pexels-photo-1181280.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 5,
+        "name": "ThisIsEngineering",
+        "rol": "Engineer",
+        "age": 26,
+        "experience": "7 years",
+        "country": "Greece",
+        "rate": 546000,
+        "image": "https://images.pexels.com/photos/3861961/pexels-photo-3861961.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 6,
+        "name": "Anna Shvets",
+        "rol": "Designer",
+        "age": 32,
+        "experience": "10 years",
+        "country": "Portugal",
+        "rate": 664000,
+        "image": "https://images.pexels.com/photos/4482887/pexels-photo-4482887.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 7,
+        "name": "Polina Zimmerman",
+        "rol": "Hacking",
+        "age": 33,
+        "experience": "13 years",
+        "country": "Mexico",
+        "rate": 968455,
+        "image": "https://images.pexels.com/photos/1181325/pexels-photo-1181325.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 8,
+        "name": "Eduardo Rosas",
+        "rol": "Programmer",
+        "age": 26,
+        "experience": "9 years",
+        "country": "Peru",
+        "rate": 564602,
+        "image": "https://images.pexels.com/photos/4709288/pexels-photo-4709288.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 9,
+        "name": "Cottonbro",
+        "rol": "Developer",
+        "age": 36,
+        "experience": "11 years",
+        "country": "Mexico",
+        "rate": 952422,
+        "image": "https://images.pexels.com/photos/3201583/pexels-photo-3201583.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 10,
+        "name": "Olia Danilevich",
+        "rol": "Programmer",
+        "age": 26,
+        "experience": "6 years",
+        "country": "Japan",
+        "rate": 956342,
+        "image": "https://images.pexels.com/photos/4974907/pexels-photo-4974907.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 11,
+        "name": "Thirdman",
+        "rol": "Developer",
+        "age": 32,
+        "experience": "10 years",
+        "country": "Mexico",
+        "rate": 654758,
+        "image": "https://images.pexels.com/photos/7605818/pexels-photo-7605818.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 12,
+        "name": "Tima Miroshnichenko",
+        "rol": "Debugger",
+        "age": 35,
+        "experience": "17 years",
+        "country": "Bhutan",
+        "rate": 786445,
+        "image": "https://images.pexels.com/photos/5725575/pexels-photo-5725575.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 13,
+        "name": "Anthony Shkraba",
+        "rol": "Developer",
+        "age": 42,
+        "experience": "21 years",
+        "country": "Mexico",
+        "rate": 999999,
+        "image": "https://images.pexels.com/photos/4974911/pexels-photo-4974911.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 14,
+        "name": "Darlene Alderson",
+        "rol": "Software Engineer",
+        "age": 23,
+        "experience": "4 years",
+        "country": "Greece",
+        "rate": 123426,
+        "image": "https://image.freepik.com/free-photo/concentrated-businessman-sitting-office-desk-using-laptop-looking_176420-15877.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Alvarez",
+        "rol": "Engineer",
+        "age": 31,
+        "experience": "12 years",
+        "country": "Colombia",
+        "rate": 564852,
+        "image": "https://media.istockphoto.com/photos/computer-programmer-working-on-new-software-program-picture-id1212006391?b=1&k=20&m=1212006391&s=170x170&h=OjbPMUnbmJWJ4QxW2alAOGqmbcyOVfsB4P99uDODCnU="
+    },
+    {
+        "id": 16,
+        "name": "Alex ",
+        "rol": "Hacker",
+        "age": 26,
+        "experience": "6 years",
+        "country": "Portugal",
+        "rate": 547425,
+        "image": "https://inmediatum.com/wp-content/uploads/2020/02/Why-programming-is-the-skill-you-have-to-learn.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Ada Lovelace",
+        "rol": "Programmer",
+        "age": 23,
+        "experience": "7 years",
+        "country": "Jamaica",
+        "rate": 365452,
+        "image": "https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces/https://www.gcu.edu/sites/default/files/2020-09/computer_programmer.jpg"
+    }
+]
